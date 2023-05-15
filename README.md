@@ -1,12 +1,16 @@
-- primero instalamos docker-compose
+- primero debemos habilitar los puertos 80 y 5600 para su funcionamiento
+
+![image](https://github.com/samuel9mauricio/contenedor/assets/133077352/c99e564a-620b-46d5-bf0c-51ffd0964fe1)
+
+- luego instalamos docker-compose
 
 ![image](https://github.com/samuel9mauricio/contenedor/assets/133077352/baf50ecc-bdf0-41eb-bb83-a3944c5c3a84)
 
-- luego realizamos el pull de ubuntu
+- realizamos el pull de ubuntu
 
 ![image](https://github.com/samuel9mauricio/contenedor/assets/133077352/c517dd58-1a23-46a7-8a11-96651315c4a2)
 
-- despues el pull de mysql
+- hacemos el pull de mysql
 
 ![image](https://github.com/samuel9mauricio/contenedor/assets/133077352/6df14635-7ecc-4e27-b12c-c6f34832fe4e)
 
@@ -40,5 +44,5 @@
 ![image](https://github.com/samuel9mauricio/contenedor/assets/133077352/9b01d452-2d17-40c0-8bd7-064ad99a46cf)
 
 
-- debemos habilitar los puertos 80 y 5600 para su funcionamiento
+
 
