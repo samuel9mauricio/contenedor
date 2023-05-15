@@ -1,1 +1,2 @@
-# contenedor
+°primero instalamos docker-compose
+
